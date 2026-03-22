@@ -1,5 +1,4 @@
 # 🚨 Crime Data Analysis Dashboard
-![Dashboard](crime data analysis Dashboard.png)
 ## 📊 Project Overview
 This project analyzes crime data using Microsoft Excel to identify patterns, trends, and key insights.  
 An interactive dashboard is created using Pivot Tables, Charts, and Slicers.
@@ -53,7 +52,7 @@ An interactive dashboard is created using Pivot Tables, Charts, and Slicers.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](crime data analysis Dashboard.png)
+crime data analysis Dashboard.png
 
 ---
 
