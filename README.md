@@ -53,7 +53,7 @@ An interactive dashboard is created using Pivot Tables, Charts, and Slicers.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](crime data analysis Dashboard.png)
 
 ---
 
